@@ -1,0 +1,14 @@
+{
+	"name": "Open-Diary/pmpro-add-paypal-express",
+	"description": "This plugin enables a radio select on the membership checkout page, allowing a user to select their preferred payment method for purchase. PayPal offers peace of mind to buyers that have concerns paying you directly by giving them a layer of protection when making purchases online.",
+	"type": "wordpress-plugin",
+	"license": "GPL-2.0+",
+	"version": "1.0",
+	"authors": [
+		{
+			"name": "Mike Auteri",
+			"email": "mauteri@gmail.com"
+		}
+	],
+	"require": {}
+}
